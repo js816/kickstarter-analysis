@@ -10,14 +10,14 @@ The purpose of this project is to help Louise increase her chances for a success
 
 ### Analysis of Outcomes Based on Launch Date
 
-The success of theater campaigns was analyzed based upon the month in which the campaign was launch.  There were more successful campaigns launch in May (111) and June (100) than in other months (average 63).  The success rate of May (67%) and June (65%) were also higher than other months (average 59%).
+The outcomes of theater campaigns were analyzed based upon the month in which the campaign was launched.  There were more successful campaigns launch in May (111) and June (100) than in other months (average 63).  The success rate of May (67%) and June (65%) were also higher than other months (average 59%).
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82730954/116946958-23e51700-ac41-11eb-9a65-4c4794d5113d.png)
 
  
 ### Analysis of Outcomes Based on Goals
 
-Next the success of the theater campaigns was studied based upon the funding goal.  The data show differences in success rates based upon the amount of the funding goal.  The most successful campaigns had goals in the following ranges:  Less than $1k (76%), $1k-<$5k (73%), $35k-<$40k (67%), and $40k-<$45k (67%).  While the success rate is similar, the number of successful campaigns in each these ranges varied substantially:  Less than $1k (141), $1k-<$5k (388), $35k-<$40k (4), and $40k-<$45k (2).  
+Next the outcomes of the theater campaigns were studied based upon the funding goal.  The data show differences in success rates based upon the amount of the funding goal.  The most successful campaigns had goals in the following ranges:  Less than $1k (76%), $1k-<$5k (73%), $35k-<$40k (67%), and $40k-<$45k (67%).  While the success rate is similar, the number of successful campaigns in each these ranges varied substantially:  Less than $1k (141), $1k-<$5k (388), $35k-<$40k (4), and $40k-<$45k (2).  
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82730954/116946977-2e071580-ac41-11eb-895f-b27bda3af8f3.png)
 
